@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-family: "Press Start 2P", cursive;
+  font-size: 73px;
+  color: #0ccac4;
+}
