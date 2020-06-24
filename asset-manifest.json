@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/monster-lists/static/css/main.4925b90d.chunk.css",
-    "main.js": "/monster-lists/static/js/main.971a2936.chunk.js",
-    "main.js.map": "/monster-lists/static/js/main.971a2936.chunk.js.map",
-    "runtime-main.js": "/monster-lists/static/js/runtime-main.63be4a9b.js",
-    "runtime-main.js.map": "/monster-lists/static/js/runtime-main.63be4a9b.js.map",
-    "static/js/2.a8cf92d9.chunk.js": "/monster-lists/static/js/2.a8cf92d9.chunk.js",
-    "static/js/2.a8cf92d9.chunk.js.map": "/monster-lists/static/js/2.a8cf92d9.chunk.js.map",
-    "index.html": "/monster-lists/index.html",
-    "precache-manifest.24c9f0885050711a1f26b06c1c3168a4.js": "/monster-lists/precache-manifest.24c9f0885050711a1f26b06c1c3168a4.js",
-    "service-worker.js": "/monster-lists/service-worker.js",
-    "static/css/main.4925b90d.chunk.css.map": "/monster-lists/static/css/main.4925b90d.chunk.css.map",
-    "static/js/2.a8cf92d9.chunk.js.LICENSE.txt": "/monster-lists/static/js/2.a8cf92d9.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/monster-lists/static/media/logo.5d5d9eef.svg"
+    "main.css": "/monster-list/static/css/main.4925b90d.chunk.css",
+    "main.js": "/monster-list/static/js/main.7ca4090f.chunk.js",
+    "main.js.map": "/monster-list/static/js/main.7ca4090f.chunk.js.map",
+    "runtime-main.js": "/monster-list/static/js/runtime-main.6e5c3257.js",
+    "runtime-main.js.map": "/monster-list/static/js/runtime-main.6e5c3257.js.map",
+    "static/js/2.a8cf92d9.chunk.js": "/monster-list/static/js/2.a8cf92d9.chunk.js",
+    "static/js/2.a8cf92d9.chunk.js.map": "/monster-list/static/js/2.a8cf92d9.chunk.js.map",
+    "index.html": "/monster-list/index.html",
+    "precache-manifest.6b01be61aaa45c64b00bf81980fea06b.js": "/monster-list/precache-manifest.6b01be61aaa45c64b00bf81980fea06b.js",
+    "service-worker.js": "/monster-list/service-worker.js",
+    "static/css/main.4925b90d.chunk.css.map": "/monster-list/static/css/main.4925b90d.chunk.css.map",
+    "static/js/2.a8cf92d9.chunk.js.LICENSE.txt": "/monster-list/static/js/2.a8cf92d9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/monster-list/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.63be4a9b.js",
+    "static/js/runtime-main.6e5c3257.js",
     "static/js/2.a8cf92d9.chunk.js",
     "static/css/main.4925b90d.chunk.css",
-    "static/js/main.971a2936.chunk.js"
+    "static/js/main.7ca4090f.chunk.js"
   ]
 }
